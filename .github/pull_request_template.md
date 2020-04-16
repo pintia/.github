@@ -1,4 +1,4 @@
-Fixes pintia/issues#
+fix pintia/issues#
 
 ## Proposed Changes
 
